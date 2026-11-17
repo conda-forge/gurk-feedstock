@@ -36,7 +36,7 @@ requirements:
     - libprotobuf
     - nushell
     - perl
-    - pkg-config
+    - pkgconf
   host:
     - if: not osx
       then: openssl
