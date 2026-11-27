@@ -1,5 +1,5 @@
 context:
-  version: "0.10.2"
+  version: "0.11.0"
 
 package:
   name: gurk
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/boxdot/gurk-rs/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: d047915916bceb221cd96a8afe53e5ba3b897f8d8798a4d36ca4cf354aa63b03
+  sha256: b5e5d40a03a9b96795c406824fabd9feed281e8a4d5b49235bd75f1d06edcc9f
 
 build:
   number: 0
